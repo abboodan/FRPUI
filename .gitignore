@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local configuration
+frp/frpc.exe
+frp/frpc.toml
+frp/frpc.toml.bak
+*app.log
+
+# Crash dumps
+*.dmp
