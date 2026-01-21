@@ -4,6 +4,19 @@ A robust Windows Forms application to manage the FRP Client (`frpc.exe`) on Wind
 
 > This tool is a GUI wrapper for **[fatedier/frp](https://github.com/fatedier/frp)**, a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
+
+<img width="551" height="332" alt="FRP1" src="https://github.com/user-attachments/assets/b07086b1-f352-47c6-ba58-39171a4a631a" />
+
+
+<img width="551" height="332" alt="FRP2" src="https://github.com/user-attachments/assets/df97899f-7fa0-4734-af40-115a092d27de" />
+
+
+<img width="551" height="332" alt="FRP3" src="https://github.com/user-attachments/assets/513ffcf2-b995-4d93-98aa-92515b4a40db" />
+
+
+<img width="551" height="332" alt="FRP4" src="https://github.com/user-attachments/assets/23d9ca6e-20e0-4617-b78d-9a6b6ecc9f36" />
+
+
 ## Features
 
 - **Process Management**: Start and Stop `frpc` safely. Handles crashes and unexpected exits.
