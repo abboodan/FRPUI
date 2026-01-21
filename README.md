@@ -2,6 +2,8 @@
 
 A robust Windows Forms application to manage the FRP Client (`frpc.exe`) on Windows. Built with .NET and C#.
 
+> This tool is a GUI wrapper for **[fatedier/frp](https://github.com/fatedier/frp)**, a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
 ## Features
 
 - **Process Management**: Start and Stop `frpc` safely. Handles crashes and unexpected exits.
